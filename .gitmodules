@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/fwaadahmad1/LinkUp-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/fwaadahmad1/LinkUp-frontend.git
